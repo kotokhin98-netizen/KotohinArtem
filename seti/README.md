@@ -1,3 +1,3 @@
-## [Конспект](/vnedrenie/konspect/)
-## [Доклад](/vnedrenie/docklad)
-## [Лабораторные](/vnedrenie/laborator/)
+## [Конспект](/seti/konspect/)
+## [Доклад](/seti/docklad)
+## [Лабораторные](/seti/laborator/)
